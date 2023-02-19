@@ -22,9 +22,15 @@ Here are some ideas to get you started:
 </p align="center">
 <img src="https://github.com/satriobhirawa/satriobhirawa/blob/main/header.png" />
 
-<!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
+<p>
+a passionate software engineer with a focus on creating innovative and efficient solutions. I'm based in Germany and have experience working on a range of software development projects.
+
+As a lifetime learner, I'm always looking to expand my knowledge and skill set. I enjoy collaborating with other developers and working on open source projects to further hone my abilities.
+
+My GitHub profile showcases some of my work, including projects that I've developed and learned at the moment. I'm always looking for ways to improve my code and make it more efficient, so feedback and suggestions are always welcome!
+
+If you're interested in learning more about my work or collaborating on a project, please don't hesitate to reach out. Let's connect and create something great together!
+</p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
@@ -69,7 +75,7 @@ Here are some ideas to get you started:
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=satriobhirawa&show_icons=true&count_private=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=satriobhirawa&theme=radical&hide_progress=true&hide=css,html">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=satriobhirawa&theme=radical&hide_progress=true&hide=css,html,jupyternotebook">
 </p>
 
 <p align = "center">
