@@ -42,14 +42,12 @@ If you're interested in learning more about my work or collaborating on a projec
 
 <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go"/>
 <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
