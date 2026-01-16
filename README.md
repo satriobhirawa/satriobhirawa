@@ -1,30 +1,34 @@
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app" />
+  <!-- Header Neon Dinamis -->
+  <img src="https://readme-typing-svg.demolab.com" alt="Typing SVG" />
 </p>
 
-## 💫 About Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com" width="100%" alt="Header Image" onerror="this.src='https://capsule-render.vercel.app'"/>
+</p>
+
+## ⚡ About Me
 <p align="left">
-A passionate <b>Software Engineer</b> with a focus on creating innovative and efficient solutions. Based in 🇩🇪 <b>Germany</b>, I specialize in building scalable applications and exploring new technology frontiers.
+I am a <b>Software Engineer</b> driven by the logic of clean code. Currently innovating from 🇩🇪 <b>Germany</b>.
 </p>
 
-- 🔭 **Current Focus:** Working on advanced system architectures and performance optimization.
-- 🌱 **Learning:** Deep diving into Cloud Native technologies.
-- 👯 **Collaboration:** Open for open-source projects and innovative tech startups.
-- 💬 **Ask me about:** TypeScript, or the best Burger in town.
-- ⚡ **Fun fact:** I believe clean code is a form of art.
+- 🚀 **Mission:** Creating efficient, high-performance software.
+- 🛠️ **Current Stack:** Focus on Go, Java, and TypeScript.
+- ✉️ **Contact:** Connect with me via LinkedIn or Twitter below.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Technology Stack
 <p align="center">
-  <img src="https://skillicons.dev" />
+  <!-- Menggunakan icon yang lebih stabil -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📈 Activity & Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app" />
   <img height="180em" src="https://github-readme-stats.vercel.app" />
@@ -36,27 +40,16 @@ A passionate <b>Software Engineer</b> with a focus on creating innovative and ef
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connectivity
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhirawa-satrio-nugroho-a7147b177/">
-    <img src="https://img.shields.io" />
-  </a>
-  <a href="https://twitter.com/ma_japahit">
-    <img src="https://img.shields.io" />
-  </a>
-  <a href="mailto:email-kamu@domain.com">
-    <img src="https://img.shields.io" />
-  </a>
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io" />
+</a>
+<a href="https://twitter.com">
+  <img src="https://img.shields.io" />
+</a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com" />
 </p>
-
----
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app" />
-</p>
-
-
-
