@@ -1,4 +1,4 @@
-# Hi, I'm Sasa 👋
+# Hi, I'm Bhirawa 👋
 
 Software Developer based in Germany 🇩🇪  
 Building scalable, secure, and testable web applications — with a growing focus on **DevOps** and **AI-powered products**.
