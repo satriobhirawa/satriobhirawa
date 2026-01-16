@@ -64,14 +64,6 @@ Building scalable, secure, and testable web applications — with a growing focu
 ![OpenAI](https://img.shields.io/badge/AI_Agents-000000?logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?logo=tensorflow&logoColor=orange)
 
----
-
-## 📊 GitHub Stats (Dark Theme)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satriobhirawa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriobhirawa&layout=compact&theme=tokyonight)
-
----
 
 ## 🧠 Mindset
 
