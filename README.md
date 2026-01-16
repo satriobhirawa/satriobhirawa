@@ -16,7 +16,7 @@ Building scalable, secure, and testable web applications — with a growing focu
 
 ## 🚀 About Me
 
-- 💻 4+ years of professional experience
+- 💻 4+ years of professional experience working on large-scale enterprise projects in the banking and public sector
 - 🧪 Strong testing mindset (unit tests, edge cases, branch coverage)
 - 🔐 Experience with security-sensitive applications
 - 🌍 From Indonesia 🇮🇩, currently living in Germany 🇩🇪
