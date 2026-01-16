@@ -1,29 +1,22 @@
 <p align="center">
-  <!-- Header Neon Dinamis -->
-  <img src="https://readme-typing-svg.demolab.com" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com" width="100%" alt="Header Image" onerror="this.src='https://capsule-render.vercel.app'"/>
+  <img src="https://capsule-render.vercel.app" width="100%" />
 </p>
 
 ## ⚡ About Me
 <p align="left">
-I am a <b>Software Engineer</b> driven by the logic of clean code. Currently innovating from 🇩🇪 <b>Germany</b>.
+Software Engineer based in 🇩🇪 <b>Germany</b>. I focus on high-performance systems.
 </p>
 
-- 🚀 **Mission:** Creating efficient, high-performance software.
-- 🛠️ **Current Stack:** Focus on Go, Java, and TypeScript.
-- ✉️ **Contact:** Connect with me via LinkedIn or Twitter below.
+- 🚀 **Mission:** Building scalable applications with Go, Java, and TypeScript.
+- 🛠️ **Learning:** MLOps, DevSecOps.
+- ✉️ **Contact:** Connect with me on LinkedIn or Twitter below.
 
 ---
 
 ## 🛠️ Technology Stack
 <p align="center">
-  <!-- Menggunakan icon yang lebih stabil -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
+  
+  <img src="https://skillicons.dev" />
 </p>
 
 ---
@@ -34,13 +27,9 @@ I am a <b>Software Engineer</b> driven by the logic of clean code. Currently inn
   <img height="180em" src="https://github-readme-stats.vercel.app" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com" />
-</p>
-
 ---
 
-## 🌐 Connectivity
+## 🌐 Connect
 <p align="center">
 <a href="https://www.linkedin.com">
   <img src="https://img.shields.io" />
